@@ -3,7 +3,7 @@ import React from "react";
 const Grid = ({ photos }) => {
   return (
     <>
-      <h1>Our Gallery</h1>
+      <h1> Gallery Photos </h1>
       <div className="grid">
         {photos.map(({ photo, _id }) => (
           <div key={_id} className="grid__item">
