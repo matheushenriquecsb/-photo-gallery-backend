@@ -4,7 +4,7 @@ Aplicação que tem como objetivo realizar o upload de uma imagem, inserindo ess
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
  
-<img src="https://github.com/matheushenriquecsb/photo-gallery-frontend/blob/main/image/Project.png?raw=true" width="455"/> <img src="https://github.com/matheushenriquecsb/photo-gallery-frontend/blob/main/image/Project1 .png?raw=true" width="455"/>
+<img src="https://github.com/matheushenriquecsb/photo-gallery-frontend/blob/main/images/Project.png?raw=true" width="455"/> <img src="https://github.com/matheushenriquecsb/photo-gallery-frontend/blob/main/images/Project1 .png?raw=true" width="455"/>
 ## Tecnologias e dependências utilizadas
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
